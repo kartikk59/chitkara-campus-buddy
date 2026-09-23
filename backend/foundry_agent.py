@@ -35,7 +35,7 @@ def ask_agent(message: str, conversation_id: str):
         extra_body={
             "agent_reference": {
                 "name": "university-support-agent-for-students",
-                "version": "12",
+                "version": "13",
                 "type": "agent_reference"
             },
             "conversation": conversation_id

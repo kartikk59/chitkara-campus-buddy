@@ -8,12 +8,11 @@ body,
   margin: 0;
   width: 100%;
   min-height: 100%;
-  height: 100%;
 }
 
 body {
   font-family: "Segoe UI", system-ui, sans-serif;
-  background: #0f0f12;
+  background: #07080d;
   color: #ececec;
 }
 
